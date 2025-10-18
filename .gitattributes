@@ -1,0 +1,2 @@
+*.sql linguist-language=SQL
+.bash_history linguist-detectable=false
