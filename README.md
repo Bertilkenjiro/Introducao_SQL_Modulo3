@@ -24,9 +24,17 @@ Introducao_SQL_Modulo3/
  ┣ resultados/
  ┃ ┣ exercicio_01_resultado_a.png
  ┃ ┣ exercicio_02_resultado_b.png
- ┃ ┗ ...
- ┗ Introducao_SQL_Modulo3.pdf
+ ┃ ┗ 
+ ┗
 ```
+## 📊 Exemplos de Resultados Visuais
+## 🧩 Exemplo de Resultado
+
+Abaixo, visualizamos o resultado da consulta do **Exercício 1**, que verifica a contagem total de produtos e clientes na base:
+
+![Exercício 01 – Resultado A](./resultados/exercicio_01_resultado_a.png)
+![Exercício 01 – Resultado B](./resultados/exercicio_01_resultado_b.png)
+
 
 ---
 
