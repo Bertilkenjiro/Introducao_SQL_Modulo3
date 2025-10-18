@@ -22,19 +22,30 @@ Introducao_SQL_Modulo3/
  ┃ ┣ exercicio_04.sql
  ┃ ┗ exercicio_05.sql
  ┣ resultados/
- ┃ ┣ exercicio_01_resultado_a.png
- ┃ ┣ exercicio_02_resultado_b.png
- ┃ ┗ 
+ ┃ ┣ exercicio_401_resultado_a.png
+ ┃ ┣ exercicio_401_resultado_b.png
+ ┃ ┣ exercicio_402_resultado_a.png
+ ┃ ┣ exercicio_402_resultado_b.png
  ┗
 ```
 ## 📊 Exemplos de Resultados Visuais
 ## 🧩 Exemplo de Resultado
 
-Abaixo, visualizamos o resultado da consulta do **Exercício 1**, que verifica a contagem total de produtos e clientes na base:
+1. Abaixo, visualizamos o resultado da consulta do **Exercício 1**, que verifica a contagem total de produtos e clientes na base:
 
-![Exercício 01 – Resultado A](./resultados/exercicio_01_resultado_a.png)
-![Exercício 01 – Resultado B](./resultados/exercicio_01_resultado_b.png)
+![Exercício 01 – Resultado A](./resultados/exercicio_401_resultado_a.png)
+![Exercício 01 – Resultado B](./resultados/exercicio_401_resultado_b.png)
 
+2. Abaixo, visualizamos o resultado da consulta do **Exercício 2**, que seleciona colunas e as renomeia utilizando a base de clientes:
+![Exercício 02 – Resultado A](./resultados/exercicio_402_resultado_a.png)
+![Exercício 02 – Resultado B](./resultados/exercicio_402_resultado_b.png)
+
+
+3. Abaixo, visualizamos o resultado da consulta do **Exercício 3**, que se utiliza das mecânicas anteriores (SELECT, AS , TOP, TOP PERCENT) usando a base de vendas :
+![Exercício 03 – Resultado A](./resultados/exercicio_403_resultado_a.png)
+![Exercício 03 – Resultado B](./resultados/exercicio_403_resultado_b.png)
+![Exercício 03 – Resultado C](./resultados/exercicio_403_resultado_c.png)
+![Exercício 03 – Resultado D](./resultados/exercicio_403_resultado_d.png)
 
 ---
 
