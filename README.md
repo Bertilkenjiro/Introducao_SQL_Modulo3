@@ -22,8 +22,8 @@ Introducao_SQL_Modulo3/
  ┃ ┣ exercicio_04.sql
  ┃ ┗ exercicio_05.sql
  ┣ resultados/
- ┃ ┣ exercicio_01_resultado.png
- ┃ ┣ exercicio_02_resultado.png
+ ┃ ┣ exercicio_01_resultado_a.png
+ ┃ ┣ exercicio_02_resultado_b.png
  ┃ ┗ ...
  ┗ Introducao_SQL_Modulo3.pdf
 ```
